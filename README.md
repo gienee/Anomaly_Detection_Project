@@ -1,12 +1,10 @@
 ## Detecting Anomalies in Data Streams: Harnessing the Isolation Forest Algorithm
 
-Author: Nikita                                                                                
-ID: 22AG63R07 
-email- nikitathakur9938@gmail.com                
-Institution: IIT Kharagpur, Kharagpur
+Author: Nikita                                               ID: 22AG63R07
+email- nikitathakur9938@gmail.com                            Institution: IIT Kharagpur, Kharagpur
 
 ## Overview
-This Python-based project utilizes Isolation Forest and ADWIN, enhanced by the river library, to detect anomalies in continuous data streams. It emphasizes real-time visualization for comprehensive analysis, especially targeting concept drift detection and adaptation.
+This Python-based project utilizes "Isolation Forest" and "ADWIN" (Adaptive Windowing) enhanced by the river library, to detect anomalies in continuous data streams. It emphasizes real-time visualization for comprehensive analysis, especially targeting concept drift detection and adaptation.
 
 
 ## Isolation Forest Algorithm strength:
@@ -35,15 +33,15 @@ pip install -r requirements.txt
 python main.py
 
 ## Usages:
-Execute the main script, "main.py," to initiate the visualization for anomaly detection.
+Execute the main script, "main.py", to initiate the visualization for anomaly detection.
 ![Anomaly Detection Visualization](Figure_1.png)
 
 ## Folder Structure
 • **Components/**: contains essential scripts or modules <br>
-            anomaly_detection.py <br>
-            config_parser.py     <br>
-            logger.py            <br>
-            utils.py             <br>
+                anomaly_detection.py <br>
+                config_parser.py     <br>
+                logger.py            <br>
+                utils.py             <br>
 • **results/**: Save detected anomalies files <br>
 • **requirements.txt**: Document detailing necessary Python dependencies. <br>
 • **main.py** <br>
@@ -60,5 +58,5 @@ Execute the main script, "main.py," to initiate the visualization for anomaly de
 Your contributions matter! Don't hesitate to open issues or send pull requests for enhancements and bug fixes. <br>
 
 ## License
-This project is licensed under the Apache License Version 2.0. <br>
+This project is licensed under the "Apache License Version 2.0". <br>
 
