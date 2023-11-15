@@ -1,6 +1,6 @@
 # Efficient Data Stream Anomaly Detection
 
-Author: Nikita(22AG63R07 )                                             
+Author: Nikita (22AG63R07)                                             
 email- nikitathakur9938@gmail.com                            
 Institution: IIT Kharagpur, Kharagpur
 
@@ -15,21 +15,21 @@ The chosen algorithm, "Isolation Forest" implemented using Python, collaborates 
 
 ## strength of Isolation Forest Algorithm:
 
-- **Efficient Isolation**: Isolation Forest algorithm creates random splits in the dataset, efficiently isolating anomalies by requiring fewer splits for outliers, distinguishing them rapidly.<br>
+- **Efficient Isolation**: Isolation Forest algorithm creates random splits in the dataset, efficiently isolating anomalies by requiring fewer splits for outliers, distinguishing them rapidly.
 
-- **Adaptability**: Its effectiveness extends to high-dimensional datasets without assuming specific data distributions, making it versatile and adaptable to diverse data types and patterns.<br>
+- **Adaptability**: Its effectiveness extends to high-dimensional datasets without assuming specific data distributions, making it versatile and adaptable to diverse data types and patterns.
 
-- **Swift Anomaly Detection**: The algorithm's quick identification of anomalies, regardless of data complexity, ensures rapid and reliable anomaly detection, critical for real-time applications.<br>
+- **Swift Anomaly Detection**: The algorithm's quick identification of anomalies, regardless of data complexity, ensures rapid and reliable anomaly detection, critical for real-time applications.
 
-- **Less Sensitive to Noise**: It is less sensitive to noisy data since it identifies anomalies by isolating them rather than modeling the entire dataset. <br>
+- **Less Sensitive to Noise**: It is less sensitive to noisy data since it identifies anomalies by isolating them rather than modeling the entire dataset.
 
-- **Scalability**: Isolation Forest works well on large datasets due to its computational efficiency, making it a good choice for processing big data. <br>
+- **Scalability**: Isolation Forest works well on large datasets due to its computational efficiency, making it a good choice for processing big data.
 
 ## Features:
-- Real-time anomaly detection in continuous streams using Isolation Forest <br>
-- Data generation employs sine wave functions with added random noise <br>
-- Dynamic response to changing data patterns, facilitated by the river library through the ADWIN algorithm (Adaptive Windowing) <br>
-- Clear visualizations for comprehensive analysis. <br>
+- Real-time anomaly detection in continuous streams using Isolation Forest 
+- Data generation employs sine wave functions with added random noise
+- Dynamic response to changing data patterns, facilitated by the river library through the ADWIN algorithm (Adaptive Windowing)
+- Clear visualizations for comprehensive analysis
 
 ## Installation:
 1. Clone the repository:
@@ -42,6 +42,10 @@ python main.py
 ## Usages:
 Execute the main script, "main.py", to initiate the visualization for anomaly detection.
 ![figure1](Figure_1.png)
+Figure_1: running Anomaly Detection of Data Stream
+![figure2](./Fig_2.PNG)
+<br> Figure_2: result of anomaly data points in csv format
+
 
 
 ## Folder Structure
@@ -54,7 +58,7 @@ Execute the main script, "main.py", to initiate the visualization for anomaly de
     - **utils.py** 
 - **results/**: Save detected anomalies files
 - **requirements.txt**: Document detailing necessary Python dependencies
-- **main.py** <br>
+- **main.py** 
 - **Config.ini**: extracting necessary parameters
 
 ## Code insights:
