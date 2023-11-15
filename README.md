@@ -42,9 +42,8 @@ python main.py
 ## Usages:
 Execute the main script, "main.py", to initiate the visualization for anomaly detection.
 ![figure1](Figure_1.png)
-Figure_1: running Anomaly Detection of Data Stream
-![figure2](./Fig_2.PNG)
-<br> Figure_2: result of anomaly data points in csv format
+
+![figure2](./Fig_2.png)
 
 
 
