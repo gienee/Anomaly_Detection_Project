@@ -1734,3 +1734,315 @@ AttributeError: 'Isolation_Forest_Anomaly_Detection' object has no attribute 'vi
 2023-11-15 13:06:36,971 - INFO - Anomaly detection process completed successfully.
 2023-11-15 13:06:36,971 - INFO - Anomaly detection process completed successfully.
 2023-11-15 13:06:36,971 - INFO - Anomaly detection process completed successfully.
+2023-11-15 16:41:52,552 - INFO - Parsing configuration from config.ini.
+2023-11-15 16:41:52,552 - INFO - Parsing configuration from config.ini.
+2023-11-15 16:41:52,552 - INFO - Parsing configuration from config.ini.
+2023-11-15 16:41:52,552 - INFO - Parsing configuration from config.ini.
+2023-11-15 16:41:52,552 - INFO - Configuration parsed successfully.
+2023-11-15 16:41:52,552 - INFO - Configuration parsed successfully.
+2023-11-15 16:41:52,552 - INFO - Configuration parsed successfully.
+2023-11-15 16:41:52,552 - INFO - Configuration parsed successfully.
+2023-11-15 16:41:52,552 - INFO - Isolation Forest Anomaly Detection object initialized.
+2023-11-15 16:41:52,552 - INFO - Isolation Forest Anomaly Detection object initialized.
+2023-11-15 16:41:52,552 - INFO - Isolation Forest Anomaly Detection object initialized.
+2023-11-15 16:41:52,552 - INFO - Isolation Forest Anomaly Detection object initialized.
+2023-11-15 16:41:52,552 - INFO - Generating synthetic data with 2000 samples.
+2023-11-15 16:41:52,552 - INFO - Generating synthetic data with 2000 samples.
+2023-11-15 16:41:52,552 - INFO - Generating synthetic data with 2000 samples.
+2023-11-15 16:41:52,552 - INFO - Generating synthetic data with 2000 samples.
+2023-11-15 16:41:52,694 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:52,694 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:52,694 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:52,694 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:52,782 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:52,782 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:52,782 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:52,782 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,051 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,051 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,051 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,051 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,145 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,145 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,145 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,145 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,362 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,362 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,362 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,362 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,456 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,456 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,456 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,456 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,635 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,635 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,635 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,635 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,729 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,729 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,729 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,729 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:53,912 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,912 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,912 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:53,912 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,008 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,008 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,008 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,008 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,186 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,186 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,186 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,186 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,265 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,265 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,265 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,265 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,455 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,455 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,455 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,455 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,547 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,547 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,547 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,547 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,733 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,733 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,733 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,733 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:54,820 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,820 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,820 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:54,820 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,006 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,006 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,006 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,006 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,111 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,111 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,111 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,111 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,286 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,286 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,286 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,286 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,386 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,386 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,386 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,386 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,569 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,569 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,569 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,569 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,664 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,664 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,664 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,664 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,879 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,879 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,879 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,879 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:55,973 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,973 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,973 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:55,973 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,166 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,166 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,166 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,166 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,260 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,260 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,260 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,260 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,435 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,435 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,435 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,435 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,529 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,529 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,529 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,529 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,725 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,725 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,725 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,725 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:56,819 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,819 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,819 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:56,819 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,000 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,000 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,000 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,000 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,095 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,095 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,095 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,095 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,283 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,283 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,283 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,283 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,377 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,377 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,377 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,377 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,542 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,542 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,542 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,542 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,621 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,621 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,621 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,621 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,800 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,800 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,800 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,800 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:57,894 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,894 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,894 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:57,894 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,082 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,082 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,082 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,082 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,176 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,176 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,176 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,176 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,361 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,361 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,361 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,361 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,439 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,439 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,439 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,439 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,664 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,664 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,664 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,664 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:41:58,742 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,742 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,742 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,742 - INFO - Concept drift detected - updating model
+2023-11-15 16:41:58,923 - INFO - Creating results folder.
+2023-11-15 16:41:58,923 - INFO - Creating results folder.
+2023-11-15 16:41:58,923 - INFO - Creating results folder.
+2023-11-15 16:41:58,923 - INFO - Creating results folder.
+2023-11-15 16:41:58,923 - INFO - Saving 44 anomalies to CSV for session 1.
+2023-11-15 16:41:58,923 - INFO - Saving 44 anomalies to CSV for session 1.
+2023-11-15 16:41:58,923 - INFO - Saving 44 anomalies to CSV for session 1.
+2023-11-15 16:41:58,923 - INFO - Saving 44 anomalies to CSV for session 1.
+2023-11-15 16:41:58,927 - INFO - Anomaly detection process completed successfully.
+2023-11-15 16:41:58,927 - INFO - Anomaly detection process completed successfully.
+2023-11-15 16:41:58,927 - INFO - Anomaly detection process completed successfully.
+2023-11-15 16:41:58,927 - INFO - Anomaly detection process completed successfully.
+2023-11-15 16:56:00,899 - INFO - Parsing configuration from config.ini.
+2023-11-15 16:56:00,899 - INFO - Parsing configuration from config.ini.
+2023-11-15 16:56:00,899 - INFO - Parsing configuration from config.ini.
+2023-11-15 16:56:00,899 - INFO - Parsing configuration from config.ini.
+2023-11-15 16:56:00,899 - INFO - Configuration parsed successfully.
+2023-11-15 16:56:00,899 - INFO - Configuration parsed successfully.
+2023-11-15 16:56:00,899 - INFO - Configuration parsed successfully.
+2023-11-15 16:56:00,899 - INFO - Configuration parsed successfully.
+2023-11-15 16:56:00,899 - INFO - Isolation Forest Anomaly Detection object initialized.
+2023-11-15 16:56:00,899 - INFO - Isolation Forest Anomaly Detection object initialized.
+2023-11-15 16:56:00,899 - INFO - Isolation Forest Anomaly Detection object initialized.
+2023-11-15 16:56:00,899 - INFO - Isolation Forest Anomaly Detection object initialized.
+2023-11-15 16:56:00,899 - INFO - Generating synthetic data with 2000 samples.
+2023-11-15 16:56:00,899 - INFO - Generating synthetic data with 2000 samples.
+2023-11-15 16:56:00,899 - INFO - Generating synthetic data with 2000 samples.
+2023-11-15 16:56:00,899 - INFO - Generating synthetic data with 2000 samples.
+2023-11-15 16:56:01,049 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,049 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,049 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,049 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,175 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,175 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,175 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,175 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,426 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,426 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,426 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,426 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,526 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,526 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,526 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,526 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,711 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,711 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,711 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,711 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,809 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,809 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,809 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,809 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:01,990 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,990 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,990 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:01,990 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,102 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,102 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,102 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,102 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,284 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,284 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,284 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,284 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,378 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,378 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,378 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,378 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,557 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,557 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,557 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,557 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,667 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,667 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,667 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,667 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,852 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,852 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,852 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,852 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:02,959 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,959 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,959 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:02,959 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,150 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,150 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,150 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,150 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,252 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,252 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,252 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,252 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,436 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,436 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,436 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,436 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,556 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,556 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,556 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,556 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,738 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,738 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,738 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,738 - INFO - Performing anomaly detection visualization.
+2023-11-15 16:56:03,850 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,850 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,850 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:03,850 - INFO - Concept drift detected - updating model
+2023-11-15 16:56:04,050 - INFO - Creating results folder.
+2023-11-15 16:56:04,050 - INFO - Creating results folder.
+2023-11-15 16:56:04,050 - INFO - Creating results folder.
+2023-11-15 16:56:04,050 - INFO - Creating results folder.
+2023-11-15 16:56:04,050 - INFO - Saving 20 anomalies to CSV for session 1.
+2023-11-15 16:56:04,050 - INFO - Saving 20 anomalies to CSV for session 1.
+2023-11-15 16:56:04,050 - INFO - Saving 20 anomalies to CSV for session 1.
+2023-11-15 16:56:04,050 - INFO - Saving 20 anomalies to CSV for session 1.
+2023-11-15 16:56:04,050 - INFO - Anomaly detection process completed successfully.
+2023-11-15 16:56:04,050 - INFO - Anomaly detection process completed successfully.
+2023-11-15 16:56:04,050 - INFO - Anomaly detection process completed successfully.
+2023-11-15 16:56:04,050 - INFO - Anomaly detection process completed successfully.
