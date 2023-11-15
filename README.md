@@ -1,4 +1,4 @@
-### **Detecting Anomalies in Data Streams: Harnessing the Isolation Forest Algorithm**
+## Detecting Anomalies in Data Streams: Harnessing the Isolation Forest Algorithm
 
 Author: Nikita                                   ID: 22AG63R07 
 email- nikitathakur9938@gmail.com                Institution: IIT Kharagpur, Kharagpur
