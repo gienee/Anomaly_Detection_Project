@@ -1,7 +1,7 @@
 # Efficient Data Stream Anomaly Detection
 
-Author: Nikita                                              
-ID: 22AG63R07         email- nikitathakur9938@gmail.com                            
+Author: Nikita(22AG63R07 )                                             
+email- nikitathakur9938@gmail.com                            
 Institution: IIT Kharagpur, Kharagpur
 
 ## Overview
