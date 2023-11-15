@@ -45,7 +45,7 @@ Execute the main script, "main.py", to initiate the visualization for anomaly de
 Figure_1 shows the running anomaly detection of Data Stream
 
 ![figure2](Fig_2.png)
-<br> Fig_2 shows the anomaly data points in the csv format in result folder
+<br> Fig_2 shows the anomaly data points in the csv format in results folder
 
 
 
