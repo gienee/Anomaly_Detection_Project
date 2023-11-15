@@ -1,15 +1,14 @@
 # Efficient Data Stream Anomaly Detection
 
-Author: Nikita                                               
-ID: 22AG63R07
-email- nikitathakur9938@gmail.com                            
+Author: Nikita                                              
+ID: 22AG63R07         email- nikitathakur9938@gmail.com                            
 Institution: IIT Kharagpur, Kharagpur
 
 ## Overview
 
 This Python-based project utilizes "Isolation Forest" and "ADWIN" (Adaptive Windowing) enhanced by the "river" library, to detect anomalies in continuous data streams. It emphasizes real-time visualization for comprehensive analysis, especially targeting concept drift detection and adaptation.
 
-## Algorithm selected
+## Selection of Algorithm 
 
 The chosen algorithm, "Isolation Forest" implemented using Python, collaborates with the river library, focusing on concept drift detection in streaming data. This combination allows real-time anomaly detection while dynamically adapting to changing data patterns and concept drift scenarios, ensuring a robust anomaly detection system.
 
