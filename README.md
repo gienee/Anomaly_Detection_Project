@@ -1,9 +1,11 @@
 **Detecting Anomalies in Data Streams: Harnessing the Isolation Forest Algorithm**
+
 Author: Nikita                                   ID: 22AG63R07 
 email- nikitathakur9938@gmail.com                Institution: IIT Kharagpur, Kharagpur
 
 ## Overview
 This Python-based project utilizes Isolation Forest and ADWIN, enhanced by the river library, to detect anomalies in continuous data streams. It emphasizes real-time visualization for comprehensive analysis, especially targeting concept drift detection and adaptation.
+
 
 ## Isolation Forest Algorithm strength:
 • Efficient Isolation: Isolation Forest algorithm creates random splits in the dataset, efficiently isolating anomalies by requiring fewer splits for outliers, distinguishing them rapidly.
@@ -21,6 +23,14 @@ This Python-based project utilizes Isolation Forest and ADWIN, enhanced by the r
 • Data generation employs sine wave functions with added random noise
 • Dynamic response to changing data patterns, facilitated by the river library through the ADWIN algorithm, which enables adaptive windowing for detecting concept drift in data streams.
 • Clear visualizations for comprehensive analysis.
+
+## Installation:
+1. Clone the repository:
+git clone https://github.com/gienee/Anomaly_Detection_Project.git
+2. Install the required dependencies:
+pip install -r requirements.txt
+3. Run this python project:
+python main.py
 
 ## Usages:
 Execute the main script, "main.py," to initiate the visualization for anomaly detection.
